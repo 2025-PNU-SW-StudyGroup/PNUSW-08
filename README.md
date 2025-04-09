@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./images/codemonster-banner.png" alt="코드몬스터 대표 이미지" width="100%"/>
+  <img src="./images/codemonster-banner.png" alt="코드몬스터 대표 이미지" width="80%"/>
 </p>
-
-<h1 align="center">코드몬스터 (Codemonster)</h1>
 
 > **참가예정 대회**: 2025 부산 ICT 융합 해커톤  
 > **공식 서비스 링크**: [https://codemonster.site](https://codemonster.site)
